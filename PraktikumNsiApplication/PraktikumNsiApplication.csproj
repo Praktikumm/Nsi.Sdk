@@ -6,13 +6,13 @@
         <Nullable>enable</Nullable>
         <RootNamespace>PraktikumNsiSdk.Application</RootNamespace>
         <PackageId>Praktik-Nsi-Sdk</PackageId>
-        <Version>1.0.0</Version>
+        <Version>1.0.1</Version>
         <Authors>NsiSdk</Authors>
         <Company>Nsi Sdk</Company>
         <PackageRequireLicenseAcceptance>false</PackageRequireLicenseAcceptance>
         <PackageLicenseExpression>MIT</PackageLicenseExpression>
         <Description>Sdk for Nsi Praktikum</Description>
-        <PackageReleaseNotes>Initial release
+        <PackageReleaseNotes>Bump version
         </PackageReleaseNotes>
         <PackageTags>Nsi</PackageTags>
     </PropertyGroup>
