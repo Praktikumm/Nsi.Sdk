@@ -265,15 +265,14 @@
   },
   "projectFileDependencyGroups": {
     "net8.0": [
-      "PraktikumNsiSdk >= 1.0.0",
-      "Refit >= 7.0.0"
+      "PraktikumNsiSdk >= 1.0.0"
     ]
   },
   "packageFolders": {
     "C:\\Users\\onlin\\.nuget\\packages\\": {}
   },
   "project": {
-    "version": "1.0.0",
+    "version": "1.0.3",
     "restore": {
       "projectUniqueName": "C:\\Users\\onlin\\RiderProjects\\PraktikumNsiSdk\\PraktikumNsiApplication\\PraktikumNsiApplication.csproj",
       "projectName": "Praktik-Nsi-Sdk",
@@ -295,7 +294,8 @@
           "targetAlias": "net8.0",
           "projectReferences": {
             "C:\\Users\\onlin\\RiderProjects\\PraktikumNsiSdk\\PraktikumNsiSdk\\PraktikumNsiSdk.csproj": {
-              "projectPath": "C:\\Users\\onlin\\RiderProjects\\PraktikumNsiSdk\\PraktikumNsiSdk\\PraktikumNsiSdk.csproj"
+              "projectPath": "C:\\Users\\onlin\\RiderProjects\\PraktikumNsiSdk\\PraktikumNsiSdk\\PraktikumNsiSdk.csproj",
+              "privateAssets": "all"
             }
           }
         }
@@ -304,22 +304,11 @@
         "warnAsError": [
           "NU1605"
         ]
-      },
-      "restoreAuditProperties": {
-        "enableAudit": "true",
-        "auditLevel": "low",
-        "auditMode": "direct"
       }
     },
     "frameworks": {
       "net8.0": {
         "targetAlias": "net8.0",
-        "dependencies": {
-          "Refit": {
-            "target": "Package",
-            "version": "[7.0.0, )"
-          }
-        },
         "imports": [
           "net461",
           "net462",

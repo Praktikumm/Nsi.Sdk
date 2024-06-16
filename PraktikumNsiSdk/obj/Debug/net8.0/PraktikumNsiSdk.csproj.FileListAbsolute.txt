@@ -10,3 +10,4 @@ C:\Users\onlin\RiderProjects\PraktikumNsiSdk\PraktikumNsiSdk\obj\Debug\net8.0\Pr
 C:\Users\onlin\RiderProjects\PraktikumNsiSdk\PraktikumNsiSdk\obj\Debug\net8.0\refint\PraktikumNsiSdk.dll
 C:\Users\onlin\RiderProjects\PraktikumNsiSdk\PraktikumNsiSdk\obj\Debug\net8.0\PraktikumNsiSdk.pdb
 C:\Users\onlin\RiderProjects\PraktikumNsiSdk\PraktikumNsiSdk\obj\Debug\net8.0\ref\PraktikumNsiSdk.dll
+C:\Users\onlin\RiderProjects\PraktikumNsiSdk\PraktikumNsiSdk\obj\Debug\net8.0\PraktikumNsiSdk.sourcelink.json

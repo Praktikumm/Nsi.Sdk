@@ -10,6 +10,7 @@ public class PostCategoryModel
     public PostCategoryModel(string title, string content)
     {
         Title = title;
+        Content = content;
     }
 
     public CreateCategoryRequestDto ToCreateCategoryRequestDto()
