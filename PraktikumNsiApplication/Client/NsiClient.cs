@@ -9,4 +9,9 @@ public class NsiClient(INsiApi api) : INsiClient
     {
         return api.CreateProductAsync(new CreateVendorRequestDto(request.Name), headers);
     }
+
+    public Task<string> CreateCategoryAsync(PostCategoryModel request, IDictionary<string, string> headers)
+    {
+        return api.CreateCategoryAsync(new CreateCategoryRequestDto(request.Title, request.Content), headers);
+    }
 }

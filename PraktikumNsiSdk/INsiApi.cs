@@ -8,4 +8,7 @@ public interface INsiApi
     [Post("/webhook/Vendor/CreateVendor")]
     public Task<string> CreateProductAsync([Body] CreateVendorRequestDto request,
         [HeaderCollection] IDictionary<string, string> headers);
+    [Post("/webhook/Category/CreateCategory")]
+    public Task<string> CreateCategoryAsync([Body] CreateCategoryRequestDto request,
+        [HeaderCollection] IDictionary<string, string> headers);
 }
