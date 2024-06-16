@@ -1,0 +1,28 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <TargetFramework>net8.0</TargetFramework>
+        <ImplicitUsings>enable</ImplicitUsings>
+        <Nullable>enable</Nullable>
+        <RootNamespace>PraktikumNsiSdk.Application</RootNamespace>
+        <PackageId>Praktik-Nsi-Sdk</PackageId>
+        <Version>1.0.0</Version>
+        <Authors>NsiSdk</Authors>
+        <Company>Nsi Sdk</Company>
+        <PackageRequireLicenseAcceptance>false</PackageRequireLicenseAcceptance>
+        <PackageLicenseExpression>MIT</PackageLicenseExpression>
+        <Description>Sdk for Nsi Praktikum</Description>
+        <PackageReleaseNotes>Initial release
+        </PackageReleaseNotes>
+        <PackageTags>Nsi</PackageTags>
+    </PropertyGroup>
+
+    <ItemGroup>
+      <PackageReference Include="Refit" Version="7.0.0" />
+    </ItemGroup>
+
+    <ItemGroup>
+      <ProjectReference Include="..\PraktikumNsiSdk\PraktikumNsiSdk.csproj" />
+    </ItemGroup>
+
+</Project>

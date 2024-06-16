@@ -1,0 +1,12 @@
+C:\Users\onlin\RiderProjects\PraktikumNsiSdk\PraktikumNsiSdk\bin\Debug\net8.0\PraktikumNsiSdk.deps.json
+C:\Users\onlin\RiderProjects\PraktikumNsiSdk\PraktikumNsiSdk\bin\Debug\net8.0\PraktikumNsiSdk.dll
+C:\Users\onlin\RiderProjects\PraktikumNsiSdk\PraktikumNsiSdk\bin\Debug\net8.0\PraktikumNsiSdk.pdb
+C:\Users\onlin\RiderProjects\PraktikumNsiSdk\PraktikumNsiSdk\obj\Debug\net8.0\PraktikumNsiSdk.csproj.AssemblyReference.cache
+C:\Users\onlin\RiderProjects\PraktikumNsiSdk\PraktikumNsiSdk\obj\Debug\net8.0\PraktikumNsiSdk.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\onlin\RiderProjects\PraktikumNsiSdk\PraktikumNsiSdk\obj\Debug\net8.0\PraktikumNsiSdk.AssemblyInfoInputs.cache
+C:\Users\onlin\RiderProjects\PraktikumNsiSdk\PraktikumNsiSdk\obj\Debug\net8.0\PraktikumNsiSdk.AssemblyInfo.cs
+C:\Users\onlin\RiderProjects\PraktikumNsiSdk\PraktikumNsiSdk\obj\Debug\net8.0\PraktikumNsiSdk.csproj.CoreCompileInputs.cache
+C:\Users\onlin\RiderProjects\PraktikumNsiSdk\PraktikumNsiSdk\obj\Debug\net8.0\PraktikumNsiSdk.dll
+C:\Users\onlin\RiderProjects\PraktikumNsiSdk\PraktikumNsiSdk\obj\Debug\net8.0\refint\PraktikumNsiSdk.dll
+C:\Users\onlin\RiderProjects\PraktikumNsiSdk\PraktikumNsiSdk\obj\Debug\net8.0\PraktikumNsiSdk.pdb
+C:\Users\onlin\RiderProjects\PraktikumNsiSdk\PraktikumNsiSdk\obj\Debug\net8.0\ref\PraktikumNsiSdk.dll
