@@ -7,7 +7,7 @@ public class NsiClient(INsiApi api) : INsiClient
 {
     public Task<string> CreateProductAsync(PostVendorModel request, IDictionary<string, string> headers)
     {
-        return api.CreateProductAsync(new CreateVendorRequestDto(request.Name), headers);
+        return api.CreateVendorAsync(new CreateVendorRequestDto(request.Name), headers);
     }
 
     public Task<string> CreateCategoryAsync(PostCategoryModel request, IDictionary<string, string> headers)

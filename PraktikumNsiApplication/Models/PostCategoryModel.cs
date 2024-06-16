@@ -7,6 +7,10 @@ public class PostCategoryModel
     public string Title { get; set; }
     public string Content { get; set; }
 
+    public PostCategoryModel()
+    {
+    }
+
     public PostCategoryModel(string title, string content)
     {
         Title = title;
