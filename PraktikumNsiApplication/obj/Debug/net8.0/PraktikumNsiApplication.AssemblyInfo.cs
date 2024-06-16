@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyDescriptionAttribute("Sdk for Nsi Praktikum")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+19b4b9d6261f9fb78c19f16787fd5621a1ff012d")]
 [assembly: System.Reflection.AssemblyProductAttribute("PraktikumNsiApplication")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PraktikumNsiApplication")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PraktikumNsiSdk")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+19b4b9d6261f9fb78c19f16787fd5621a1ff012d")]
 [assembly: System.Reflection.AssemblyProductAttribute("PraktikumNsiSdk")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PraktikumNsiSdk")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
